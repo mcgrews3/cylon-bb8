@@ -1,6 +1,6 @@
 {
   "name": "cylon-bb8",
-  "version": "0.2.3",
+  "version": "0.3.3",
   "description": "Cylon module for BB8",
   "bugs": "https://github.com/mcgrews/cylon-bb8/issues",
   "author": "<mcgrews3@pacbell.net>",
@@ -26,6 +26,7 @@
     "BB8"
   ],
   "dependencies": {
+    "async": "^1.4.2",
     "cylon": "~1.1.0",
     "cylon-ble": "~0.7.0",
     "hybridgroup-spheron": "~0.3.0",
